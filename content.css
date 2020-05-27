@@ -1,0 +1,55 @@
+.content-movie-poster{
+                        margin: 0px 100px 0 100px;
+                        padding-top: 30px;
+                        padding-bottom: 30px;
+                        border-bottom: solid gray 3px ;
+                     }
+.content-poster{
+                  width: 600px;
+                  margin-top: 30px;
+                  margin-bottom: 30px;
+               }
+.content{
+          margin: 0 100px 0 100px;
+          padding: 30px 20px 30px 20px;
+          border-bottom: solid gray 2px ;
+          text-align: left;
+        }
+
+.information{
+
+            }
+.review{
+
+       }
+.criticism{
+            width: 600px;
+            margin: 30px auto 30px auto;
+            padding: 30px 20px 30px 20px;
+            background-color: #F4EDCD;
+            box-shadow:0 0px 10px 0 rgba(0,0,0,0.16),0 0px 10px 0 rgba(0,0,0,0.12);
+          }
+
+.movie-table{
+              background-color: #57D3FF;
+              width: 1130px;
+              box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+              padding: 25px 0 25px 0;
+              vertical-align: bottom;
+              font-size: 20px;
+              white-space: nowrap;
+              margin:0px auto 5px auto;
+            }
+table{
+        margin: auto;
+     }
+td{
+    padding: 0 25px 0 25px;
+  }
+.table-poster{
+                width: 150px;
+                box-shadow:0 0px 10px 0 rgba(0,0,0,0.16),0 0px 10px 0 rgba(0,0,0,0.12);
+             }
+#table-poster-select{
+                      width: 180px;
+                    }

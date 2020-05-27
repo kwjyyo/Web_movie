@@ -1,0 +1,61 @@
+body{
+      margin: 0 0 0 0;
+    }
+.nav-theme{
+            background-color: #57D3FF;
+            width: 100%;
+            box-shadow:0 2px 10px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+            padding: 25px 0 25px 0;
+            text-align: center;
+            vertical-align: bottom;
+            font-size: 20px;
+            min-width: 1130px;
+            margin-bottom: 5px;
+          }
+
+.nav-link{
+            display: inline;
+            padding-left: 50px;
+            padding-right: 50px;
+            margin: 0 30px 0 30px;
+
+         }
+a:link, a:visited{
+                    color: white;
+                    text-decoration: none;
+                 }
+
+#nav-select{
+              background-color: #00ACE9;
+              padding-top: 25px;
+              padding-bottom: 25px;
+              box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+           }
+
+.section-theme{
+                background-color: #F2F2F2;
+                margin: 0 auto 0 auto;
+                width: 1130px;
+                white-space: nowrap;
+                text-align: center;
+                padding-bottom: 30px;
+                box-shadow:0 10px 5px 0 rgba(0,0,0,0.16),0 10px 10px 0 rgba(0,0,0,0.12);
+              }
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+  }
+.movie{
+        display: inline-block;
+      }
+.poster{
+          width: 200px;
+          margin: 30px 40px 10px 40px;
+       }
+.movie-name{
+
+           }
